@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TribalApp</string>
+    <string name="error_api">Ocurrio un error</string>
+    <string name="success_api">Respuesta exitosa</string>
+    <string name="joke_placeholder">Chiste random</string>
+
+</resources>
